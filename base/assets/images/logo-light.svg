@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64" role="img" aria-label="Logo">
+  <path d="M18 8l16 6v14c0 12-7 20-16 24-9-4-16-12-16-24V14z" fill="#FFFFFF" opacity=".9"/>
+  <path d="M11 30l5 5 10-11" fill="none" stroke="#F2B441" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="46" y="30" font-family="Montserrat,Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#FFFFFF">[COMPANY]</text>
+  <text x="46" y="48" font-family="Montserrat,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#FFFFFF" opacity=".7" letter-spacing="2.4">[CITY], [ST]</text>
+</svg>
